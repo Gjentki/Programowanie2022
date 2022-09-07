@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(116, 116, 116);
+}
+#topl {
+    background-color: rgb(231, 183, 25);
+    float: left;
+    width: 50%;
+    height: 50px;
+}
+#topr {
+    background-color: rgb(23, 190, 176);
+    
+    height: 50px;
+}
+#bar {
+    background-color: rgb(178, 20, 117);
+    width: 100%;
+    height: 200px;
+}
+#midl {
+    background-color: rgb(40, 103, 239);
+    float: left;
+    width: 33%;
+    height: 550px;
+} 
+#midr {
+    background-color: rgb(205, 7, 7);
+    height: 550px;
+} 
+#bottom{
+    background-color: rgb(102, 28, 198);
+    width: 100%;
+    height: 50px;
+} 
