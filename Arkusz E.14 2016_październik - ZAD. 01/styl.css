@@ -1,0 +1,46 @@
+#baner{
+    background-color:#829EB9 ;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    font-family: Arial;
+}
+
+#lewy{
+    float: left;
+    width: 25%;
+    height: 600px;
+    background-color: #B3C6D9;
+}
+
+#prawy{
+background-color: #E0E9F1;
+height: 600px;
+text-align: center;
+}
+
+#stopka{
+    
+    background-color: #829EB9;
+   
+    text-align: right;
+    font-family: Arial;
+}
+
+.tabela{
+    border: solid black 2px;
+    width: 70%;
+    text-align: left;
+    border-collapse: collapse;
+}
+th {
+    background-color: #B3C6D9;
+    border: solid black 2px;
+}
+td {
+    border: solid black 2px;
+}
+td:hover {
+    background-color: blue;
+    color: white;
+}
