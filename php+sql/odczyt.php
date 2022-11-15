@@ -1,6 +1,6 @@
 <?php
     $polacz=mysqli_connect("localhost" , "root", "", "baza");
-    $zapytanie="SELECT * FROM `baza`";
+    $zapytanie="SELECT * FROM `tabela`";
     $zapytaniesql=mysqli_query($polacz, $zapytanie);
 
     echo "Tekst";
